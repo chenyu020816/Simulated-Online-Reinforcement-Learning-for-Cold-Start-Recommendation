@@ -1,1 +1,1 @@
-# RL-for-Personalized-Recommendations
+# Simulated Online Reinforcement Learning for Cold-Start Recommendation
